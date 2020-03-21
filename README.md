@@ -1,2 +1,2 @@
 # Da1S.github.io
-for lessons end homeworks
+for lessons and homeworks
