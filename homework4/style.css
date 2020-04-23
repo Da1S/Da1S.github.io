@@ -1,0 +1,144 @@
+.navigation{
+    display: flex;
+        height: 100px;
+        justify-content: space-between;
+        margin-bottom: 130px;}
+
+
+.logo{
+height: 100px;width: 100px;display: flex;
+justify-content: center; align-items: center ;
+font-family: 'Righteous', cursive;
+font-size: 30px;}
+
+.menu{height: 100px;width: 700px;display: flex;justify-content: center;}
+
+
+.nav{
+    height: 100px;width: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size:20px ;}
+    
+    .q{
+        display:flex;
+            justify-content:center;
+            margin:0 210px ; 
+            margin-bottom: 100px;
+            opacity: 0.5;
+    }
+
+
+    /* .container{
+        height: 100px;
+        width:200;
+        border: 2px solid red;
+    position: relative; */
+    
+    
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    } */
+    /* .cirle{
+        position: absolute;
+        /* top: 60px;
+        left: 60px; */
+    /* } */ 
+   
+    
+    /* .main{
+        display: flex;
+        justify-content: space-around;
+    }
+     */
+       
+       .img{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .container{
+        height: 200px;
+        width: 200px;
+        
+        position: relative;
+        display: flex;
+    }
+    .circle{
+        position: absolute;
+        top:  60px;
+        left: 60px;
+    }.icon1{
+        position: absolute;
+        top:  76px;
+        left: 77px;}
+
+
+    .icon2{
+        position: absolute;
+        top:  76px;
+        left: 82px;
+    }
+    
+    .h{
+        display: flex;
+        justify-content: space-around;
+    }
+   .p{
+    margin:0 100px ;
+    font-family: 'Dancing Script', cursive;
+        font-family: 'Roboto', sans-serif;
+        opacity: 0.5;
+
+   }
+   .p1{
+       display: flex;
+       justify-content: center;
+       opacity: 0.5;
+   }
+   .text1{
+       margin-top: 200px;
+   }
+
+   .z
+   { 
+       display: flex;
+    justify-content: center;
+    margin-top: 100px;
+ 
+
+}
+    .x  {
+       
+        margin-left: 20px;
+        margin-bottom: 45px;
+        
+    }
+    .c{
+        margin-left: 20px;
+        display: flex;
+        justify-content:center;
+    }
+.b1{
+    display: flex;
+    justify-content: center;
+
+}
+    .b{
+       
+   
+    height: 50px;
+    width: 200px;
+    font-size: 12pt;
+   
+
+
+        background-color: yellow;
+         border-radius: 10px; 
+       border: 1px solid black
+      
+    }
