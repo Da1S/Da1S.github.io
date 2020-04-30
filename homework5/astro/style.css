@@ -1,0 +1,17 @@
+.astroboy {
+    display: block;
+    width: 180px;
+    height: 325px;
+    background: url('capguy-walk.png');
+    animation: astroboy 1.3s steps(8) infinite;
+}
+@keyframes astroboy {
+
+    0% {
+        background-position: 0px;
+    }
+
+    100% {
+        background-position: -1472px;
+    }
+}
